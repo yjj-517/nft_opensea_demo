@@ -1,0 +1,2 @@
+NFT 状态 1-待上传 2-已上传 3-待 mint(已上传 opensea) 4-已上架 opensea 5-已 mint
+nft_type: NFT发行渠道 1-自 mint 2-opensea
